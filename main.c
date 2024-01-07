@@ -7,11 +7,11 @@ int main(void)
 
     if ( age < 18) 
     {
-        printf("You are young.");
+        printf("You are young.\n");
     }
     else
     {
-        printf("You are an adult.");
+        printf("You are an adult.\n");
     }
 
     return 0;
