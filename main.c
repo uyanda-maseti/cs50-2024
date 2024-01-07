@@ -4,7 +4,8 @@ int main(void)
 {
     
     int counter = 0;
-    printf("counter = %i", counter);
+    counter = counter + 1;
+    printf("counter = %i \n", counter);
 
     return 0;
 }
